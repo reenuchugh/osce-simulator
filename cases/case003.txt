@@ -1,0 +1,56 @@
+TITLE: The Tired Teacher
+STATION TYPE: History
+DURATION: 8
+
+CANDIDATE INSTRUCTIONS:
+Sarah Chen, 34, presents to her family physician with fatigue for the past 3 months. Take a focused history. Address her concerns. Physical exam and management will be discussed with the examiner at the end.
+
+SP:
+Opening: I'm just so tired all the time, I don't know what's wrong with me.
+Emotion: mildly anxious, slightly frustrated at not being taken seriously
+
+History:
+- fatigue x3 months, gradual onset, worse afternoons, not relieved by sleep
+- unintentional weight gain ~4kg
+- feeling cold more than usual
+- constipation
+- dry skin
+- no fever, no night sweats, no chest pain, no shortness of breath
+- mood low but denies anhedonia or hopelessness
+- sleep increased 10-11 hrs/night
+- appetite unchanged
+- menstrual cycles heavier and more frequent lately
+
+PMHx: none significant, no prior thyroid issues
+Medications: combined oral contraceptive pill
+Allergies: NKDA
+Social: elementary school teacher, married, two kids, non-smoker, occasional alcohol, increased work stress this year
+Family: mother has thyroid problems on medication, no family history of depression or diabetes
+
+Patient concern: Could this be depression? My sister said I should see a psychiatrist.
+
+Challenge question: Is this all just in my head? Am I being dramatic?
+
+Physical findings: (only if verbalized) HR 58 regular, BP 118/76, temp 36.2C, dry coarse skin, mild non-tender diffuse thyroid enlargement, delayed relaxation phase of ankle reflex, no proptosis, no tremor
+
+EXAMINER:
+Key features:
+- elicits full fatigue history with hypothyroid symptoms
+- screens for depression appropriately (mood, anhedonia, sleep, appetite, SI)
+- differentiates from primary mood disorder
+- asks about family history of thyroid disease
+- addresses patient concern empathetically
+- mentions TSH as key initial investigation
+
+Critical safety issues:
+- fails to screen for suicidal ideation despite patient raising depression concern
+
+Oral questions:
+1. What is your leading diagnosis and why?
+2. What investigations would you order first?
+3. How would you explain the connection between her symptoms and this diagnosis to the patient?
+
+Expected answers:
+1. Primary hypothyroidism - fatigue, cold intolerance, weight gain, constipation, dry skin, menorrhagia, family history, bradycardia, delayed reflexes.
+2. TSH and free T4 first-line; consider CBC, fasting glucose if indicated.
+3. Thyroid hormone regulates metabolism; low levels slow the body causing these symptoms; treatable with levothyroxine; reassure it is a real, common, treatable medical condition.

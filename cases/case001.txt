@@ -1,0 +1,67 @@
+TITLE: Wildfire evacuation and asthma
+STATION TYPE: History + counselling
+DURATION: 8
+
+CANDIDATE INSTRUCTIONS:
+Sarah Mitchell, 38, was evacuated because of a wildfire.
+Obtain a focused history and counsel her regarding her medical and psychosocial needs.
+
+SP:
+Opening: We had to leave so quickly. I don't have my inhalers.
+Emotion: anxious, tired
+
+History:
+- evacuated 3 days ago
+- staying in hotel
+- hotel covered only until Friday
+- husband and two children safe
+- asthma
+- controller inhaler and salbutamol left at home
+- mild cough and wheeze
+- no severe dyspnea
+- no chest pain
+- poor sleep
+- worried about housing
+- no suicidal thoughts
+- sister nearby
+
+PMHx: asthma, otherwise healthy
+Medications: controller inhaler (left at home), salbutamol PRN (left at home)
+Allergies: NKDA
+Social: married, two children, currently in hotel, sister lives nearby
+Family: non-contributory
+
+Patient concern: My asthma will get worse and I don't know where we'll stay.
+
+Challenge question: Can you actually help me, or do I have to call everyone myself?
+
+Physical findings: mild expiratory wheeze bilaterally if chest auscultated, no accessory muscle use, O2 sat 96% room air, RR 18, HR 88, BP 118/74, speaking in full sentences
+
+EXAMINER:
+Key features:
+- immediate safety
+- housing/basic needs
+- respiratory symptoms
+- asthma severity
+- medication access
+- smoke exposure
+- mental health
+- family supports
+- replace medications
+- smoke reduction advice
+- social worker/community resources
+- follow-up
+
+Critical safety issues:
+- misses severe respiratory symptoms
+- fails to replace essential medication
+
+Oral questions:
+1. What are your immediate priorities for this patient?
+2. How would you assess asthma severity in this encounter?
+3. What resources would you connect her with?
+
+Expected answers:
+1. Safety and airway/breathing status first, then medication replacement, then psychosocial/housing needs.
+2. Ask about frequency of symptoms, nighttime symptoms, activity limitation, peak flow if available, exam for wheeze/accessory muscle use/O2 sat.
+3. Pharmacy for urgent inhaler replacement, local emergency social services/Red Cross for housing, follow-up with family doctor, mental health support if needed.

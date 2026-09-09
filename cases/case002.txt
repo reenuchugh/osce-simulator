@@ -1,0 +1,58 @@
+TITLE: Acute Chest Pain
+STATION TYPE: History + physical exam + oral questions
+DURATION: 8
+
+CANDIDATE INSTRUCTIONS:
+You are seeing a patient in the Emergency Department who presents with chest pain. Take a focused, relevant history, address the patient's concerns. Vitals will be provided if asked. No physical exam findings unless specific manoeuvres are verbalized. At the end you will discuss your differential diagnosis and initial management plan with the examiner.
+
+SP:
+Opening: Doctor... thank god you're here. This pain just isn't going away.
+Emotion: anxious, uncomfortable, holding chest
+
+History:
+- man, mid-50s
+- chest pain onset 1 hour ago, sudden
+- described as pressure/tightness, substernal
+- radiates to left arm and jaw
+- associated with shortness of breath, diaphoresis, nausea
+- pain 8/10, not relieved by rest
+- no prior similar episodes
+- smoker, 1 pack/day x20 years
+- occasional alcohol
+
+PMHx: hypertension, type 2 diabetes, hyperlipidemia
+Medications: metformin, ramipril, atorvastatin
+Allergies: NKDA
+Social: smoker, sedentary job, married
+Family: father had MI at age 58
+
+Patient concern: Am I having a heart attack? Am I going to die?
+
+Challenge question: Just give me something for the pain, why do you need to ask all these questions?
+
+Physical findings: (only if verbalized) HR 102, BP 148/92, RR 22, O2 sat 95%, diaphoretic, no JVD, heart sounds normal no murmur, lungs clear bilaterally, no leg swelling
+
+EXAMINER:
+Key features:
+- rapid focused history (OPQRST of chest pain)
+- cardiac risk factors identified
+- ACS recognized as leading concern
+- appropriate reassurance without false promises
+- mentions ECG and troponin
+- mentions aspirin/oxygen/monitoring as appropriate
+- addresses patient's fear directly
+
+Critical safety issues:
+- fails to recognize ACS as life-threatening emergency
+- fails to order/mention ECG promptly
+- delays appropriate management while patient is symptomatic
+
+Oral questions:
+1. What is your leading diagnosis and key differentials?
+2. What immediate investigations and management would you initiate?
+3. What are this patient's risk factors for coronary artery disease?
+
+Expected answers:
+1. Acute coronary syndrome (STEMI/NSTEMI/unstable angina) leading; differentials include aortic dissection, PE, GERD, musculoskeletal pain.
+2. ECG within 10 minutes, troponin, IV access, oxygen if hypoxic, aspirin 325mg chewed if no contraindication, cardiac monitoring, consider nitrates if not hypotensive.
+3. Smoking, hypertension, diabetes, hyperlipidemia, family history of premature MI, male sex, age.
