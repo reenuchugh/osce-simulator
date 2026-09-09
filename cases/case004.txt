@@ -1,0 +1,47 @@
+TITLE: Postpartum Mood Concerns
+STATION TYPE: History
+DURATION: 8
+
+CANDIDATE INSTRUCTIONS:
+Priya Nair, 29, is 6 weeks postpartum and presents to her family physician for a routine postpartum check. Take a focused history addressing her mood and wellbeing.
+
+SP:
+Opening: I guess I'm okay... I'm just really tired.
+Emotion: guarded initially, tearful if asked directly about mood, ashamed of admitting difficulty
+History: baby born 6 weeks ago, vaginal delivery, no complications, exclusively breastfeeding, baby healthy and gaining weight. Feels overwhelmed most days, crying spells several times a week, difficulty bonding with baby at times, feels guilty about these feelings. Sleep poor but partly due to night feeds. Appetite reduced. Some intrusive thoughts of "what if something happened to the baby" but denies intent to harm baby or self. Denies auditory/visual hallucinations. Husband works long hours, mother-in-law helps sometimes but relationship strained.
+Red flags: passive thoughts about not wanting to be here anymore if asked directly and empathetically about self-harm/suicidal ideation - reveal only if asked clearly and non-judgmentally; denies any plan or intent
+PMHx: no prior psychiatric history, uncomplicated pregnancy
+Medications: prenatal vitamin
+Allergies: NKDA
+Social: first baby, married, husband works long hours, limited social support, on parental leave from job as accountant
+Family: mother had "baby blues" after Priya was born, no other family psychiatric history
+
+Patient concern: Am I a bad mother for feeling this way?
+
+Challenge question: Everyone says this is normal, so why do I still feel like this after six weeks?
+
+Physical findings: (only if verbalized) appears tired, appropriately groomed, makes eye contact, no psychomotor agitation or retardation, vital signs normal
+
+EXAMINER:
+Key features:
+- distinguishes baby blues from postpartum depression by timeline and severity
+- screens for postpartum depression symptoms systematically (mood, anhedonia, sleep, guilt, concentration)
+- screens for suicidal ideation and thoughts of harming the baby directly and non-judgmentally
+- assesses safety of the infant
+- explores social support system
+- validates feelings without dismissing them
+- discusses management options (counselling, EPDS screening, possible pharmacotherapy, support groups)
+
+Critical safety issues:
+- fails to screen for suicidal ideation or infant harm thoughts
+- dismisses symptoms as "normal baby blues" without proper screening given 6 week duration
+
+Oral questions:
+1. How do you differentiate baby blues from postpartum depression?
+2. What screening tool could you use here?
+3. What are your next steps in management?
+
+Expected answers:
+1. Baby blues typically resolve within 2 weeks postpartum and are milder; postpartum depression persists beyond 2 weeks, is more severe, and impairs functioning.
+2. Edinburgh Postnatal Depression Scale (EPDS).
+3. Safety assessment first; consider referral to counselling/psychotherapy, discuss SSRI options compatible with breastfeeding if indicated, involve social supports, close follow-up, safety plan if any risk identified.

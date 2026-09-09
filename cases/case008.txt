@@ -1,0 +1,47 @@
+TITLE: New Diagnosis of Type 2 Diabetes
+STATION TYPE: counselling
+DURATION: 8
+
+CANDIDATE INSTRUCTIONS:
+Mr. Robert Singh, 52, was recently diagnosed with type 2 diabetes based on routine bloodwork (HbA1c 7.8%). He returns to discuss the diagnosis. Counsel him regarding the diagnosis and management plan.
+
+SP:
+Opening: So the nurse said something about my blood sugar being high... what does that actually mean?
+Emotion: mildly anxious, somewhat in denial ("I feel fine though"), becomes more receptive as conversation progresses if approached non-judgmentally
+History: asymptomatic, found incidentally on routine annual bloodwork. No polyuria, polydipsia, weight loss, blurred vision reported. Sedentary job (accountant), minimal regular exercise. Diet high in processed foods and sugary drinks, admits to poor diet especially at work. No prior diagnosis of prediabetes. Family history of diabetes (father, developed complications including diabetic nephropathy).
+Red flags: none acute; should screen for diabetes complications/symptoms (vision changes, numbness/tingling in feet, slow healing wounds) - all absent if asked
+PMHx: hypertension diagnosed 2 years ago, on medication
+Medications: amlodipine for BP
+Allergies: NKDA
+Social: sedentary desk job, married, two adult children, occasional alcohol, non-smoker
+Family: father had type 2 diabetes with complications including kidney disease, mother has hypertension
+
+Patient concern: Does this mean I'm going to end up like my dad, on dialysis?
+
+Challenge question: Can't I just take a pill and keep eating the way I do?
+
+Physical findings: not applicable to this station (counselling focus)
+
+EXAMINER:
+Key features:
+- explains the diagnosis of type 2 diabetes in clear, non-technical language
+- explores patient's understanding and addresses his fear about complications (father's history)
+- discusses lifestyle modification (diet, exercise) as foundation of management
+- discusses possible pharmacotherapy (e.g., metformin) appropriately, not as a substitute for lifestyle change
+- discusses monitoring plan (HbA1c follow-up, screening for complications - eyes, feet, kidneys)
+- uses shared decision-making and avoids being judgmental about his diet/lifestyle
+- addresses his specific fear about ending up like his father with empathy and factual reassurance
+
+Critical safety issues:
+- fails to address his fear about complications, leaving him with unaddressed anxiety
+- presents medication as a substitute for lifestyle change rather than an adjunct
+
+Oral questions:
+1. How would you explain type 2 diabetes and its management to this patient in simple terms?
+2. What complications screening should be arranged for a newly diagnosed patient?
+3. How do you balance the discussion of medication versus lifestyle change?
+
+Expected answers:
+1. Type 2 diabetes means the body doesn't use insulin effectively, leading to high blood sugar; explain in terms of diet, exercise, and possibly medication working together to bring sugar levels into a healthy range and prevent long-term complications.
+2. Annual eye exam (retinopathy), urine albumin/creatinine ratio and kidney function (nephropathy), foot exam (neuropathy), lipid panel, blood pressure monitoring.
+3. Lifestyle modification (diet, physical activity, weight management) is first-line and foundational; metformin is often added if lifestyle alone doesn't achieve targets or if HbA1c is significantly elevated - the two work together, not as alternatives.

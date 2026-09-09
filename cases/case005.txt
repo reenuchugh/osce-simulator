@@ -1,0 +1,48 @@
+TITLE: Febrile Toddler
+STATION TYPE: History + counselling
+DURATION: 8
+
+CANDIDATE INSTRUCTIONS:
+Mrs. Thompson brings her 18-month-old daughter Emma to the walk-in clinic because of fever. Take a focused history from the mother and counsel her regarding management and red flags to watch for.
+
+SP:
+Opening: She's had a fever since last night and just isn't herself.
+Emotion: worried mother, seeking reassurance
+History: fever started ~18 hours ago, up to 39.0C measured with ear thermometer, given acetaminophen with some improvement. Emma is drinking fluids but eating less than usual, wet diapers normal in number. Mild runny nose and cough for 2 days prior. No vomiting, no diarrhea, no rash. Emma is more clingy but does smile and interact when fever comes down. No recent travel. Up to date on vaccinations. Attends daycare where other kids have had colds recently.
+Red flags: none present currently but mother should be asked about and counselled on - lethargy/difficulty waking, poor feeding/no wet diapers, rash, stiff neck, difficulty breathing, seizure - reveal that none of these are present if asked
+PMHx: born full term, healthy, no chronic conditions, no prior hospitalizations
+Medications: acetaminophen given for fever
+Allergies: NKDA
+Social: lives with both parents, attends daycare 3 days/week
+Family: no relevant family history
+
+Patient concern: Should I take her to the emergency room?
+
+Challenge question: My sister said toddlers can have seizures from fever, is that going to happen to her?
+
+Physical findings: (only if verbalized) Emma is alert, interactive, well-hydrated appearing, no rash, throat mildly red, ears clear, chest clear, no signs of respiratory distress, capillary refill normal
+
+EXAMINER:
+Key features:
+- focused fever history (duration, height, response to antipyretics)
+- assesses hydration status
+- assesses activity/interaction level (most important marker of severity in toddlers)
+- screens for red flag symptoms (lethargy, poor feeding, rash, neck stiffness, breathing difficulty, seizure)
+- vaccination status
+- daycare/exposure history
+- provides appropriate counselling on antipyretic use, hydration, when to seek care
+- addresses febrile seizure question factually without alarming
+
+Critical safety issues:
+- fails to assess hydration and activity level
+- fails to counsel on red flags requiring urgent reassessment
+
+Oral questions:
+1. What are the key red flags in a febrile toddler that would prompt urgent referral?
+2. How would you counsel this mother about febrile seizures?
+3. What is your management plan for today?
+
+Expected answers:
+1. Lethargy/difficult to rouse, poor feeding/decreased urine output, persistent vomiting, rash (especially non-blanching), neck stiffness, respiratory distress, seizure activity.
+2. Febrile seizures occur in a minority of children with fever, are usually brief and self-limited, do not typically cause lasting harm; reassure while providing guidance on what to do if one occurs.
+3. Likely viral URI; continue supportive care with antipyretics as needed, encourage fluids, monitor activity/hydration, return precautions clearly explained, follow up if fever persists beyond 3-5 days or red flags develop.

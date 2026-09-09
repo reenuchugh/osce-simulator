@@ -1,0 +1,47 @@
+TITLE: Anaphylaxis After Lunch
+STATION TYPE: emergency
+DURATION: 8
+
+CANDIDATE INSTRUCTIONS:
+You are working in the Emergency Department. Michael Torres, 24, is brought in by a coworker after developing sudden symptoms after eating lunch at a restaurant. Take a rapid focused history and manage this emergency. Vitals and findings given only if requested/verbalized.
+
+SP:
+Opening: [gasping slightly] I can't... breathe right... my throat feels tight...
+Emotion: frightened, anxious, visibly distressed, some difficulty completing full sentences due to throat tightness
+History: symptoms started about 10 minutes ago, shortly after eating a dish that may have contained shellfish (he suspects but isn't certain, ordered a pasta dish that "might have had shrimp in the sauce"). Developed hives on his arms and chest, lips feel swollen, throat feels tight, mild wheeze, feels lightheaded. Known shellfish allergy diagnosed years ago but has not carried an EpiPen recently ("I thought I grew out of needing it"). No prior anaphylaxis episodes this severe. No known other allergies.
+Red flags: throat tightness/swelling (airway risk), wheeze, lightheadedness (hypotension risk) - these are present, reveal when asked or when exam/vitals requested
+PMHx: shellfish allergy (mild reactions in past - hives only), asthma as a child (outgrown, no longer on medications)
+Medications: none currently, no EpiPen on him
+Allergies: shellfish
+Social: works in construction, otherwise healthy, non-smoker
+
+Patient concern: [if asked] Am I going to be okay? Can you help me breathe?
+
+Challenge question: not a distinct challenge question - the case itself is the challenge (candidate must move to immediate treatment, not just history-taking)
+
+Physical findings: (only if verbalized/vitals requested) BP 88/56, HR 128, RR 26 with audible wheeze, O2 sat 91% room air, visible hives on trunk and arms, lip and tongue mild swelling, stridor absent but voice sounds muffled
+
+EXAMINER:
+Key features:
+- recognizes anaphylaxis rapidly based on multi-system involvement (skin, respiratory, cardiovascular)
+- calls for immediate IM epinephrine as first-line treatment (does not delay for full history)
+- addresses airway/breathing/circulation urgently
+- appropriately obtains focused history in parallel with treatment, not instead of it
+- mentions oxygen, IV fluids, antihistamine/corticosteroid as adjuncts (not primary treatment)
+- plans for observation period given biphasic reaction risk
+- counsels on EpiPen carrying and allergy action plan after stabilization
+
+Critical safety issues:
+- delays epinephrine administration to complete a full history first
+- fails to recognize anaphylaxis and treats as simple allergic reaction only
+- discharges without observation period or without addressing EpiPen prescription/action plan
+
+Oral questions:
+1. What is your immediate first-line treatment and why?
+2. What are the diagnostic criteria you used to identify anaphylaxis here?
+3. What is your discharge plan and counselling for this patient?
+
+Expected answers:
+1. IM epinephrine (0.3-0.5mg of 1:1000 concentration) immediately - it is the only treatment proven to reverse anaphylaxis and delay increases mortality risk; should not wait for other treatments first.
+2. Acute onset with involvement of skin/mucosa (hives, lip swelling) plus respiratory compromise (wheeze, throat tightness) and/or hypotension, following exposure to a likely allergen (shellfish).
+3. Observe for at least 4-6 hours for biphasic reaction, prescribe/ensure access to EpiPen (2 doses), refer to allergy/immunology, provide written anaphylaxis action plan, counsel on strict allergen avoidance and need to carry epinephrine at all times going forward.

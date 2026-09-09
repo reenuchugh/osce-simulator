@@ -1,0 +1,46 @@
+TITLE: Requesting a Sick Note for a Minor Issue
+STATION TYPE: ethics/communication
+DURATION: 8
+
+CANDIDATE INSTRUCTIONS:
+Mr. Dave Kowalski, 41, presents requesting a doctor's note to excuse him from work for the past week due to "stress." Explore his request and address the ethical/professional issue involved.
+
+SP:
+Opening: I just need you to sign a note saying I was too sick to work last week.
+Emotion: initially casual/entitled, becomes slightly defensive if pushed, opens up if approached with empathy
+History: was not actually significantly unwell; missed work due to a family conflict and needing time to deal with it, plus some genuine work-related stress that has been building for months. No true medical illness during that week. On further empathetic questioning: work has been very stressful lately, feeling overwhelmed, some trouble sleeping and low mood over past month, hasn't told his employer the real reason he needs time. Denies suicidal ideation. Has not seen a doctor about the stress before.
+Red flags: none acute, but should screen for depression/burnout given admission of ongoing stress and mood symptoms
+PMHx: none significant
+Medications: none
+Allergies: NKDA
+Social: works in a demanding sales job, married, two kids, no substance use disclosed unless asked (denies if asked)
+Family: non-contributory
+
+Patient concern: I just need this note, can you just sign it so I don't get in trouble at work?
+
+Challenge question: Come on, it's just a piece of paper, why does it matter if I wasn't technically "sick"?
+
+Physical findings: not applicable to this station
+
+EXAMINER:
+Key features:
+- explores the actual reason for the absence non-judgmentally
+- identifies the ethical/professional conflict (being asked to certify something false)
+- does not agree to backdate or falsify a note
+- explores underlying stress/mood symptoms once uncovered
+- offers a legitimate path forward (note reflecting current visit, referral for stress/mood support, discussion with employer about accommodation)
+- maintains professional, non-confrontational communication throughout
+
+Critical safety issues:
+- signs a fraudulent/backdated note
+- fails to screen for depression/suicidal ideation once significant mood symptoms are disclosed
+
+Oral questions:
+1. What is the ethical issue at stake in this station?
+2. How would you respond to the patient's request for a backdated note?
+3. What would you do next given his disclosed stress and mood symptoms?
+
+Expected answers:
+1. Being asked to provide false medical certification for a period during which no genuine illness was present - a professionalism and honesty issue (physicians should not certify things they cannot verify or that are untrue).
+2. Explain clearly and empathetically that a note can only reflect a genuine medical assessment; decline to backdate or certify the prior week, but offer to help with his current concerns.
+3. Screen for depression/burnout and suicidal ideation, discuss support options (counselling, possible short-term stress leave certified appropriately going forward, employee assistance program), and address the underlying stressors.
